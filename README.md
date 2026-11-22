@@ -4,7 +4,7 @@
 
 ## 数据来源
 
-数据来自中国气象局国家气象中心（NMC）台风报文页面：
+数据来自中央气象台（NMC）台风报文页面：
 
 https://nmc.cn/publish/typhoon/message.html
 
